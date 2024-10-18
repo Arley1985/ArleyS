@@ -6,8 +6,8 @@ class TittleGreenUfpso extends HTMLElement {
 
     // Se activa el uso del componente
     connectedCallback() {
-        this.innerHTML = "<p>Hola mundo cruel otra vez</p>";
-        this.style.color = "red";
+        this.innerHTML = "<p>Hola mundo mailyn </p>";
+        this.style.color = "blue";
         this.style.fontFamily = "Arial"; 
         this.style.fontSize = "40px";
         this.style.fontWeight = "bold"; 
